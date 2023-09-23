@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Inter&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    outline: none !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-background {
+    opacity: 0.8;
+    filter: blur(5px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url('./assets/images/background-paper.gif');
+}

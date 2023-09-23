@@ -1,0 +1,8 @@
+to do list
+
+#add jwt
+#add middlewares
+#add remove accounts
+#edit / remove accounts screen
+#warning account screen or icon
+#remove pause account when this couldn't joint to the raids

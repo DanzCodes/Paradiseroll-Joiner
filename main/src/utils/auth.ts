@@ -1,0 +1,2 @@
+import.meta.env.CREDENTIALS_EMAIL
+import.meta.env.CREDENTIALS_PASSWORD
